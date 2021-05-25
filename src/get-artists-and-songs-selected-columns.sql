@@ -1,0 +1,1 @@
+-- Write a join query that will return a list of artists and their songs. Include only the artist id, artist name, and song name in your result.

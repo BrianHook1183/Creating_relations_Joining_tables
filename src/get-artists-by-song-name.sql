@@ -1,0 +1,1 @@
+-- Write a join query that will return a list of artists with song names that start with "The". Include only the artist name, song name and album name in your result.
